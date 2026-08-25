@@ -1,0 +1,11 @@
+Student_ID,Name,Python,Pandas,DSA,DBMS,OOP,Average,Performance,Weak_Subjects,Rank
+106,Ananya,96,93,91,95,97,94.4,Excellent,None,1
+102,Priya,92,89,95,91,94,92.2,Excellent,None,2
+110,Ishita,90,87,92,89,93,90.2,Excellent,None,3
+104,Sneha,88,94,86,90,91,89.8,Good,None,4
+101,Rahul,85,78,90,82,88,84.6,Good,None,5
+108,Neha,81,85,79,83,87,83.0,Good,None,6
+105,Rohan,74,69,78,72,76,73.8,Average,None,7
+109,Arjun,70,76,68,73,71,71.6,Average,None,8
+103,Aman,65,72,60,68,70,67.0,Average,None,9
+107,Karan,58,64,55,61,60,59.6,Needs Improvement,"Python, DSA",10
